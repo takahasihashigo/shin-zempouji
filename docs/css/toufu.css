@@ -191,8 +191,6 @@ margin-top: 0px;
     font-weight: bold;
 }
 
-/*background-attachment: fixed;が使えない対処法
-https://stackoverflow.com/questions/26372127/background-fixed-no-repeat-not-working-on-mobile*/
 .toufu-bg-img::before {
     content: "";
     display: block;
