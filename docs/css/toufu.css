@@ -45,14 +45,6 @@ a:visited {
     height: 100vh;
 }
 
-.toufu-white {
-    color: #fff !important;
-}
-
-.toufu-bold {
-    font-weight: bold;
-}
-
 .toufu-bg-img::before {
     content: "";
     display: block;
@@ -67,6 +59,14 @@ a:visited {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.toufu-white {
+    color: #fff !important;
+}
+
+.toufu-bold {
+    font-weight: bold;
 }
 
 .toufu-sukesuke {
