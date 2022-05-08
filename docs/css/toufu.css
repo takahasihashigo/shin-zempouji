@@ -59,6 +59,10 @@ a:visited {
     background-size: cover;
 }
 
+.toufu-white-wall {
+    background-color: white;
+}
+
 .toufu-white {
     color: #fff !important;
 }
