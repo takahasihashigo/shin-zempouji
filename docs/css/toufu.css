@@ -47,17 +47,15 @@ a:visited {
 
 .toufu-bg-img::before {
     content: "";
-    display: block;
     position: fixed;
     left: 0;
     top: 0;
     width: 100%;
     height: 100%;
     z-index: -100;
-    background: url('../img/hi.JPG') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background-image: url('../img/hi.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
