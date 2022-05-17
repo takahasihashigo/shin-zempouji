@@ -78,6 +78,7 @@ a:visited {
 .toufu-sukesuke {
     height: 50vh;
     background-color: rgba(0, 0, 0, 0.0);
+    background-position: center;
 }
 
 /* ハンバーガーメニュー */
